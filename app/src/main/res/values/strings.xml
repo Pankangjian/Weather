@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title">高德地图------>Web服务API------>天气查询API</string>
+    <string name="title1"></string>
+</resources>
