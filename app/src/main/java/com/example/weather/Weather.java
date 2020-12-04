@@ -4,7 +4,6 @@ import java.util.List;
 
 /**
  * 请求天气查询API返回结果
- *
  */
 public class Weather {
     //值为0或1：1：成功；0：失败
